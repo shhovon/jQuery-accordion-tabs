@@ -1,0 +1,2 @@
+$(".acc").accordion();
+$(".tab").tabs();
